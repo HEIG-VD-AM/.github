@@ -15,6 +15,10 @@ Il ne faut pas hésiter à s'en inspirer, mais on évite le pur copié-collé.
 - [ISD](https://github.com/HEIG-VD-AM/ISD-21-22)
 - [PRG2](https://github.com/HEIG-VD-AM/PRG2-21-22)
 
+## E1
+
+- [PIN](https://github.com/HEIG-VD-AM/PIN-21-22)
+
 ## S3
 
 - [BDR](https://github.com/HEIG-VD-AM/BDR-22-23)
