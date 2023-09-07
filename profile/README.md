@@ -38,3 +38,7 @@ Il ne faut pas hésiter à s'en inspirer, mais on évite le pur copié-collé.
 - [PDL](https://github.com/HEIG-VD-AM/PDL-22-23)
 - [SRX](https://github.com/HEIG-VD-AM/SRX-22-23)
 
+  ## E2
+
+- [PDG](https://github.com/Duck-Pass)
+
