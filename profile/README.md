@@ -10,7 +10,7 @@ Ces travaux sont partagés pour inspirer et servir de référence. **Le copier-c
 - **Consultez ensuite** mes solutions pour voir d'autres méthodes ou logiques de résolution, en prenant note des aspects que vous pourriez améliorer ou que vous n'aviez pas envisagés.
 - **Révisez** votre approche initiale en vous inspirant des techniques ou des idées nouvelles que vous aurez découvertes, ce qui favorisera votre capacité à aborder des problèmes similaires de façon plus autonome à l'avenir.
 
-En partageant ces ressources, je vous encourage vivement à les utiliser pour une meilleure compréhension des concepts, tout en rappelant qu'elles sont là pour vous aider, et non pour servir de solutions toutes faites. Il est crucial de se rappeler que les compétences que vous développez maintenant sont le fondement de votre future carrière professionnelle. Les connaissances que vous acquérez par votre propre effort sont inestimables. De plus, les conséquences de la tricherie à l'école ne valent jamais le risque. Utilisez ces ressources à bon escient pour forger un avenir solide et des bases stables.
+En partageant ces ressources, je vous encourage vivement à les utiliser pour une meilleure compréhension des concepts, tout en rappelant qu'elles sont là pour vous aider, et non pour servir de solutions toutes faites. Il est crucial de se rappeler que les compétences que vous développez maintenant sont le fondement de votre future carrière professionnelle. Les connaissances que vous acquérez par votre propre effort sont inestimables. De plus, les conséquences de la tricherie à l'école ne valent vraiment pas la peine de tricher à un laboratoire. Utilisez ces ressources à bon escient pour forger un avenir solide et des bases stables.
 
 ## S1
 
