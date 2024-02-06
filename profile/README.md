@@ -47,7 +47,7 @@ En partageant ces ressources, je vous encourage vivement à les utiliser pour un
 - [PDL](https://github.com/HEIG-VD-AM/PDL-22-23)
 - [SRX](https://github.com/HEIG-VD-AM/SRX-22-23)
 
-  ## E2
+## E2
 
 - [PDG](https://github.com/Duck-Pass)
 
