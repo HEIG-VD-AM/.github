@@ -51,3 +51,14 @@ En partageant ces ressources, je vous encourage vivement à les utiliser pour un
 
 - [PDG](https://github.com/Duck-Pass)
 
+## S5
+
+- [CAA](https://github.com/HEIG-VD-AM/CAA-23-24)
+- [DAA](https://github.com/HEIG-VD-AM/DAA-23-24)
+- [EAL](https://github.com/HEIG-VD-AM/EAL-23-24)
+- [SLB](https://github.com/HEIG-VD-AM/SLB-23-24)
+- [SLH](https://github.com/HEIG-VD-AM/SLH-23-24)
+- [SOS](https://github.com/HEIG-VD-AM/SOS-23-24)
+- [WEB](https://github.com/HEIG-VD-AM/WEB-23-24)
+
+
