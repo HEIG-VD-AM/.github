@@ -61,4 +61,11 @@ En partageant ces ressources, je vous encourage vivement à les utiliser pour un
 - [SOS](https://github.com/HEIG-VD-AM/SOS-23-24)
 - [WEB](https://github.com/HEIG-VD-AM/WEB-23-24)
 
+  ## S6
+
+- [ADS](https://github.com/HEIG-VD-AM/ADS-23-24)
+- [AMM](https://github.com/HEIG-VD-AM/AMM-23-24)
+- [SFA](https://github.com/HEIG-VD-AM/SFA-23-24)
+- [SSE](https://github.com/HEIG-VD-AM/SSE-23-24)
+
 
