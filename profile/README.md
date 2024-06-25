@@ -8,9 +8,9 @@ Ces laboratoires illustrent les compétences et les connaissances que j'ai acqui
 
 🎯 Objectifs de cette organisation :
 
-Documentation : Fournir une vue d'ensemble de mes travaux pratiques, démontrant mon parcours académique et mes compétences en sécurité informatique.
-Inspiration : Partager des idées et des approches pour résoudre des problèmes complexes dans le domaine.
-Référence : Servir de point de référence pour d'éventuels projets futurs.
+- Documentation : Fournir une vue d'ensemble de mes travaux pratiques, démontrant mon parcours académique et mes compétences en sécurité informatique.
+- Inspiration : Partager des idées et des approches pour résoudre des problèmes complexes dans le domaine.
+- Référence : Servir de point de référence pour d'éventuels projets futurs.
 
 ## S1
 
