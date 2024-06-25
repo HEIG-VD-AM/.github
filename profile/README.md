@@ -1,16 +1,16 @@
 # HEIG-VD - Laboratoires
 
-Bienvenue sur mon espace GitHub où je partage les laboratoires réalisés durant mon parcours en sécurité informatique à l'HEIG-VD. Ces travaux sont le fruit de nombreuses heures de travail, d'expérimentation, et d'apprentissage.
+Bienvenue sur mon espace GitHub où je partage les laboratoires réalisés durant mon parcours en sécurité informatique à l'HEIG-VD. Ces projets représentent une part importante de mon travail et de mes apprentissages tout au long de mon cursus de bachelor.
 
-🚫 **Principes importants :**
-Ces travaux sont partagés pour inspirer et servir de référence. **Le copier-coller n'est pas une méthode d'apprentissage valide** et dévalorise l'effort intellectuel nécessaire pour comprendre les enjeux de la sécurité informatique.
+🔍 À propos de cette organisation :
 
-✅ **Pour une démarche constructive :**
-- **Tentez d'abord** de résoudre les laboratoires par vous-même, sans aide extérieure, pour mettre à l'épreuve vos connaissances actuelles.
-- **Consultez ensuite** mes solutions pour voir d'autres méthodes ou logiques de résolution, en prenant note des aspects que vous pourriez améliorer ou que vous n'aviez pas envisagés.
-- **Révisez** votre approche initiale en vous inspirant des techniques ou des idées nouvelles que vous aurez découvertes, ce qui favorisera votre capacité à aborder des problèmes similaires de façon plus autonome à l'avenir.
+Ces laboratoires illustrent les compétences et les connaissances que j'ai acquises et appliquées dans divers domaines de la sécurité informatique. Chaque projet reflète les défis techniques rencontrés, ainsi que les solutions développées pour les surmonter.
 
-En partageant ces ressources, je vous encourage vivement à les utiliser pour une meilleure compréhension des concepts, tout en rappelant qu'elles sont là pour vous aider, et non pour servir de solutions toutes faites. Il est crucial de se rappeler que les compétences que vous développez maintenant sont le fondement de votre future carrière professionnelle. Les connaissances que vous acquérez par votre propre effort sont inestimables. De plus, les conséquences de la tricherie à l'école ne valent vraiment pas la peine de tricher à un laboratoire. Utilisez ces ressources à bon escient pour forger un avenir solide et des bases stables.
+🎯 Objectifs de cette organisation :
+
+Documentation : Fournir une vue d'ensemble de mes travaux pratiques, démontrant mon parcours académique et mes compétences en sécurité informatique.
+Inspiration : Partager des idées et des approches pour résoudre des problèmes complexes dans le domaine.
+Référence : Servir de point de référence pour d'éventuels projets futurs.
 
 ## S1
 
